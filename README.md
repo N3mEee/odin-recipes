@@ -1,2 +1,4 @@
 # odin-recipes
-Project Recipes for the Odin Project course
+This is the first project made for The Odin Project course.
+
+I will add more details about what it in the future.
